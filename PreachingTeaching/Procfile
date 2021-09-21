@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath PreachingTeaching PreachingTeaching.wsgi --log-file -
